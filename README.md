@@ -22,7 +22,8 @@ Instructions:
 - [ ] 0. Fork this repository.  
 - [ ] 1. Modify main.cpp by uncommenting the code to output "hello, world".  
 - [ ] 2. Build and run the program.  
-- [ ] 3. Clean the project.  
-- [ ] 4. Commit your changes.  
-- [ ] 5. Push your changes to your repository. 
-- [ ] 5. Perform a Pull Request (PR). 
+- [ ] 3. Update this README.md file.  
+- [ ] 4. Clean the project.  
+- [ ] 5. Commit your changes.  
+- [ ] 6. Push your changes to your repository. 
+- [ ] 7. Perform a Pull Request (PR). 
