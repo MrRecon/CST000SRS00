@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: <Pokemon>
+Class ID: *Pokemon*
 
-SRS ID: <CST100SRS00>
+SRS ID: *CST???SRS00*
 
 Unresolved Issues:  None. 
 
@@ -27,3 +27,7 @@ Instructions:
 - [ ] 5. Commit your changes.  
 - [ ] 6. Push your changes to your repository. 
 - [ ] 7. Perform a Pull Request (PR). 
+
+Your submission must be 100% correct. 
+
+No further submissions will be accepted until you have a 100% for this SRS. 
